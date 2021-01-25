@@ -659,7 +659,11 @@ margin-left:1000px;
     
     
     
-    
+        .box1{
+         width:75px;       
+        height:75px;
+
+}
     
      {
     
@@ -873,7 +877,7 @@ margin-left:1000px;
     
     
     
-    @media screen and (min-width:10px)
+    @media screen and (min-width:1000px)
     
     
     
