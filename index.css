@@ -193,7 +193,7 @@ width:100%;
     
      #code{
       color:orange;
-    
+    width:100%;
       font-size: 60px;
 
       animation: glow 1s ease-in-out infinite alternate;
@@ -277,14 +277,14 @@ width:100%;
       }
     }
     .box1,.box3,.box4,.box6{
-
+        width:100%;
       animation:rotate 15s linear infinite ; 
     }
      
 
    
     .box2,.box5{
-
+        min-width:100%;
       width: 150px;
     
       height: 150px;
