@@ -171,7 +171,7 @@ width:100%;
     .quote{
     
         margin-top:50px;
-      
+        height:100%;
         width:100%;
         color:snow;
     
@@ -195,6 +195,7 @@ width:100%;
       color:orange;
     width:100%;
       font-size: 60px;
+         height:100%;
 
       animation: glow 1s ease-in-out infinite alternate;
 
