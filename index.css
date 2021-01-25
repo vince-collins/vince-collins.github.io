@@ -655,14 +655,10 @@ margin-left:1000px;
     
       position:relative;*/
     /*==============================================================================================================*/
-   /* @media screen and (max-width:576px)*/
+    @media screen and (max-width:576px)
     
     
     
-        .box1{
-         width:75px;       
-        height:75px;
-
 }
     
      {
@@ -873,17 +869,17 @@ margin-left:1000px;
     
     
     
+    /********************************************************************************************************/
     
     
     
-    
-    @media screen and (min-width:1000px)
+    @media screen and (min-width:576px)
     
     
     
      {
     
-    .about,.contact,.intro,.projects,.quote{
+    .about,.contact,.intro,#code,.projects,.quote.,boxes1,.boxes2{
     
         flex-direction: column ;
     
